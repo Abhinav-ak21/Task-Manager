@@ -1,0 +1,27 @@
+body{
+    background-color: #F9F9E0;
+}
+
+.navbar{
+    background-color: #8ACDD7;
+    
+}
+a{
+    color: #092635;
+}
+
+.footer{
+    margin-top: 110px;
+    margin-left: 0;
+    margin-right: 0;
+    
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.container-fluid{
+    height: 60px;
+    background-color: #8ACDD7;
+}
+
